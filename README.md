@@ -3,7 +3,7 @@
 ## Overview
 This project showcases the application of the Data Engineering Lifecycle in processing and analyzing Formula 1 racing data. It involves managing data for both driver champions and constructor champions. Points are awarded based on finishing positions in each race, with separate championships for drivers and constructors. Pole positions are determined through qualifying races.
 
-
+----
 
 ## Data Source
 The data is sourced from the **Ergast Developer API**, which provides tables such as:
@@ -16,11 +16,12 @@ The data is sourced from the **Ergast Developer API**, which provides tables suc
 - Lap Times
 - Qualifying
 
+--- 
 
 ## ER Diagram
 ![image](https://github.com/user-attachments/assets/604326b3-c9be-49a6-bf3b-fb23e6885a3e)
 
-
+--- 
 ## Project Resources and Architecture
 
 ### Azure Services Used
